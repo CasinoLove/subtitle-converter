@@ -18,8 +18,6 @@ Note: the example HTML included in this repository exposes more options than the
 
 ## Screenshot
 
-Add a screenshot to the repository (for example: `docs/screenshot.png`) and then enable it here:
-
 ![Subtitle Converter screenshot](screenshot.jpg)
 
 ## Features

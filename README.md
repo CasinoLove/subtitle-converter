@@ -11,8 +11,8 @@ The converter detects the real format from the content (not only from the file e
 
 ## Live demo (CasinoLove)
 
-- App: http://hu.casinolove.org/tech/subtitle-conversion/app/
-- Subtitle format guide (SRT, VTT, SBV): http://hu.casinolove.org/tech/subtitle-conversion/
+- App: http://tech.casinolove.org/subtitle-conversion/app/
+- Subtitle format guide (SRT, VTT, SBV): http://tech.casinolove.org/subtitle-conversion/
 
 Note: the example HTML included in this repository exposes more options than the hosted CasinoLove page.
 

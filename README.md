@@ -34,6 +34,11 @@ Note: the example HTML included in this repository exposes more options than the
 - Export as SRT, VTT, SBV, or plain text
 - iOS Safari friendly fallbacks for clipboard and file download
 
+## YouTube announcement video
+[![Subtitle Converter: SRT, VTT, SBV, and Text](https://img.youtube.com/vi/ioParHPgYfk/0.jpg)](https://www.youtube.com/watch?v=ioParHPgYfk)
+
+You can also watch the video here: [https://youtu.be/ioParHPgYfk](https://youtu.be/ioParHPgYfk)
+
 ## Repository contents
 
 - `subtitle-converter.js`  
